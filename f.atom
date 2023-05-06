@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zarastore.info</id>
+    <title>ZARA STORE</title>
+    <updated>2023-04-09T20:55:15Z</updated>
+    <generator>ZARA STORE</generator>
+    <author>
+        <name>ZARA STORE</name>
+    </author>
+    <link rel="alternate" href="https://zarastore.info"/>
+    <link rel="self" href="https://zarastore.info/home/f"/>
+    <subtitle>ZARA STORE</subtitle>
+    <entry>
+        <title type="html"><![CDATA[TOUSIF AHMED]]></title>
+        <id>tousif-ahmed</id>
+        <link href="https://zarastore.info/home/f/tousif-ahmed">
+        </link>
+        <updated>2023-04-09T20:55:15Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0b9601f5-5318-484e-bda8-39668163b0f5/images%205.jpeg"/><p>Zara Enterprises is All In One Shop Creativity Evangelist at http://zarastore.info, Sharing a Business of Zara in a practical, modern way. We enjoys making a new and good homes and product for clients, clever projects, e...</p>]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ZARA STORE</title>
+        <link>https://zarastore.info</link>
+        <description>ZARA STORE</description>
+        <lastBuildDate>Sun, 09 Apr 2023 20:55:15 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>ZARA STORE</generator>
+        <atom:link href="https://zarastore.info/home/f" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TOUSIF AHMED]]></title>
+            <link>https://zarastore.info/home/f/tousif-ahmed</link>
+            <guid>https://zarastore.info/home/f/tousif-ahmed</guid>
+            <pubDate>Sun, 09 Apr 2023 20:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0b9601f5-5318-484e-bda8-39668163b0f5/images%205.jpeg"/><p>Zara Enterprises is All In One Shop Creativity Evangelist at http://zarastore.info, Sharing a Business of Zara in a practical, modern way. We enjoys making a new and good homes and product for clients, clever projects, e...</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
